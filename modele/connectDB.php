@@ -2,9 +2,9 @@
     function connectDB(){
         $servername = "localhost";
 
-        $username = "root";
+        $username = "****";
 
-        $password = "admin";
+        $password = "****";
 
         $dbname = "wetransfert";
         try {
